@@ -1,1 +1,16 @@
-Merupakan Sistem Penanggalan dari beberapa macam Bahasa Pemrograman. Untuk di bagian ini, hanya menggunakan Sistem Penanggalan biasa tanpa memakai Persentase Tahun.
+Merupakan Sistem Penanggalan dari beberapa macam Bahasa Pemrograman. Untuk di bagian ini, hanya menggunakan Sistem Penanggalan biasa tanpa memakai Persentase Tahun. 
+
+Contoh Algoritma :
+
+Tahun                   : 2022
+Bulan                   : 7 (July)
+Tanggal                 : 14
+Hari                    : 4 (Thursday)
+Hari ke (dalam Setahun) : 195
+Jam                     : 14
+Menit                   : 23
+Detik                   : 36
+
+Thursday, 14 July 2022
+Day-195
+14:23:36
